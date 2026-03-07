@@ -1,0 +1,18 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+116.52,-74.6925,90.0,top,C13,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,10uF,smt
+95.68,-67.38,-90.0,top,C5,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nF,smt
+113.56,-71.01,-90.0,top,C7,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,10uF,smt
+105.72,-63.7975,-90.0,top,D1,,,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,LED,smt
+100.62,-64.07,0.0,top,D2,,,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,WS2812B,smt
+96.55,-74.98,-90.0,bottom,J1,,,PinSocket_1x04_P2.54mm_Vertical,Programmer,smt
+112.47,-64.075,180.0,top,J2,,,USB_C_Receptacle_GCT_USB4125-xx-x_6P_TopMnt_Horizontal,USB_C_Receptacle_PowerOnly_6P,smt
+116.39,-71.78,90.0,top,J4,,,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,Battery,tht
+99.82,-67.89,0.0,top,R1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,330E,smt
+94.73,-63.44,-90.0,top,R19,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2K,smt
+105.15,-67.89,0.0,top,R22,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10K,smt
+105.78,-71.945,-90.0,top,SW1,,,SW_SPST_TS-1088-xR020,SW_Push,smt
+113.48,-74.765,180.0,bottom,SW7,,,SW_SPDT_PCM12,ON/OFF,smt
+100.11,-72.795,90.0,top,U1,,TSSOP-20 Nuvoton Technology,TSSOP20,MM32G0001A1T,smt
+90.14,-74.72,0.0,bottom,U2,,,nRF24L01_Breakout,NRF24L01_Breakout,tht
+110.03,-71.01,180.0,top,U3,C82942,,SOT-23-5_HandSoldering,ME6211C33M5G-N,smt
+91.2525,-63.32,0.0,top,U5,,,TSOT-23-6,TP4057,smt
